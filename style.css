@@ -1,0 +1,86 @@
+html,body{ 
+    background-color: rgb(210, 235, 227);
+    margin: 0;
+    padding: 0;
+} 
+
+.main-content{
+    max-width: 1000px;
+    margin: auto;
+}
+.box{
+    background-color: azure;
+    padding: 20px;
+    margin: 30px;
+}
+
+.image{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+
+}
+
+.top-header{
+    background-color: rgb(167, 207, 207);
+}
+.menu-item{
+    color: black;
+    padding: 15px;
+    display: inline-block ;
+    text-decoration:none ;
+    margin-left: 20px;
+    margin-right: 50px;
+} 
+.brand{
+    font-size: 25px;
+    font-weight: 600; 
+}
+
+.text-box{
+   padding: 1px;
+   margin: 5px;
+}
+.text-box h1{
+    font-size: 45px;
+    margin-top: 10px;
+    margin-bottom: 1x;
+    margin-left: 20px;
+    color: black;
+    text-align: center;
+}
+
+
+
+.bottom-footer{
+    background-color: rgb(231, 210, 210);
+    padding: 2px;
+    text-align: center;
+   
+ 
+}
+
+.text-box p{
+    text-align: left;
+    font-size: medium;
+    margin-top: 0.5px;
+    margin-bottom: 3px;
+    margin-left: 80px;
+
+}
+
+.text p{
+    text-align: left;
+    margin-right: 50px;
+    font-size: medium;
+    margin-bottom: 3px;
+    margin-left: 200px;
+}
+
+.img-resize img{
+    text-align: center;
+    width: 400px; 
+    height: 550px; 
+}
+
+
